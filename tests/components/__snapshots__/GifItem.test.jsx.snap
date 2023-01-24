@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifItem />  should snapShot match? 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Alfonso Ribeiro Dancing GIF"
+      src="https://media3.giphy.com/media/IGpqj6DMmbeNy/giphy.gif?cid=5538b305w7xkjqdiaqah0n79sexyfrnvgt4qxsklh7crkjwy&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Alfonso Ribeiro Dancing GIF
+    </p>
+  </div>
+</div>
+`;
